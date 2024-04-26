@@ -1,0 +1,1 @@
+ I have implement an Amazon Clone with the help of HTML, CSS .Created various sectors of the clone such as navigation bar,footer,icons,body ,by styling all this we created a clone which looks like amazon website.
